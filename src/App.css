@@ -104,3 +104,29 @@
     margin: 0;
     padding: 0;
 }
+
+#searchbtn {
+    display: flex;
+    background-color: blue;
+    text-align: center;
+    justify-content: center;
+    padding-top: 18px;
+}
+
+#searchbtn button {
+    padding: 0px 16px;
+    margin: 11px 4px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    font-size: 14px;
+}
+
+#mainsearch {
+    align-items: center;
+    background-color: green;
+}
+
+#search {
+    background-color: red;
+    text-align: center;
+}
